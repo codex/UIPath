@@ -1,0 +1,14 @@
+{
+  "name": "IfElse project",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "17.1.6407.26740",
+  "projectVersion": "1.0.6411.20564",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
