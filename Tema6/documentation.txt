@@ -1,0 +1,7 @@
+https://www.uipath.com/guides/about-selectors
+
+https://www.uipath.com/guides/selectors-with-wildcards
+
+https://www.uipath.com/guides/full-versus-partial-selectors
+
+https://www.uipath.com/guides/uipath-explorer

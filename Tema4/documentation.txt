@@ -1,0 +1,11 @@
+https://www.uipath.com/guides/automatic-recording
+
+https://www.uipath.com/guides/example-of-automatic-recording-with-basic-and-desktop
+
+https://www.uipath.com/guides/example-of-automatic-recording-with-web
+
+https://www.uipath.com/guides/manual-recording
+
+https://www.uipath.com/guides/about-recording
+
+https://www.uipath.com/guides/about-recording-types

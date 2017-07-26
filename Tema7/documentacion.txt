@@ -1,0 +1,15 @@
+https://www.uipath.com/guides/about-image-and-text-automation
+
+https://www.uipath.com/guides/mouse-and-keyboard-activities
+
+https://www.uipath.com/guides/text-activities
+
+https://www.uipath.com/guides/ocr-activities
+
+https://www.uipath.com/guides/image-activities
+
+https://www.uipath.com/guides/mouse-and-keyboard-automation
+
+https://www.uipath.com/guides/text-automation
+
+https://www.uipath.com/guides/ocr-and-image-automation
